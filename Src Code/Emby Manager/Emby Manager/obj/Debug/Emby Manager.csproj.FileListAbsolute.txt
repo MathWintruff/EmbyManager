@@ -1,0 +1,13 @@
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\bin\Debug\Emby Manager.exe.config
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\bin\Debug\Emby Manager.exe
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\bin\Debug\Emby Manager.pdb
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\obj\Debug\Emby Manager.csprojAssemblyReference.cache
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\obj\Debug\EmbyManager.FormAdd.resources
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\obj\Debug\EmbyManager.FormUpdate.resources
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\obj\Debug\EmbyManager.Form1.resources
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\obj\Debug\EmbyManager.Form2.resources
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\obj\Debug\EmbyManager.Properties.Resources.resources
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\obj\Debug\Emby Manager.csproj.GenerateResource.cache
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\obj\Debug\Emby Manager.csproj.CoreCompileInputs.cache
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\obj\Debug\Emby Manager.exe
+C:\Users\Math\Documents\Visual Studio 2017\Projects\EmbyManager\Emby Manager\Emby Manager\Emby Manager\Emby Manager\obj\Debug\Emby Manager.pdb
